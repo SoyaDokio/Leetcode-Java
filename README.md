@@ -1,6 +1,6 @@
 # Leetcode-Java
 
-Feb 6 '18 @ 15:09 0800
+Create: Feb 6 '18 @ 15:09 0800
 
 Solutions to leetcode's problems in Java. https://github.com/soyadokio/Leetcode-Java#leetcode-java
 
