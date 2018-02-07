@@ -6,7 +6,7 @@ Solutions to leetcode's problems in Java. https://github.com/soyadokio/Leetcode-
 
 ## Problems
 
-(Notes: "♥" means favorite; "♡"✡" means I do the best first time.)
+(Notes: "♥" means favorite; "✡" means I do the best first time.)
 
 |#|Title|Difficulty|Train_of_thought|Solution|Begin_Date|
 |:-|:---|:--------:|:--------------:|:------:|:--------:|
