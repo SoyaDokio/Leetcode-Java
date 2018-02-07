@@ -6,11 +6,11 @@ Solutions to leetcode's problems in Java. https://github.com/soyadokio/Leetcode-
 
 ## Problems
 
-(Notes: "♥" means favorite/important)
+(Notes: "♥" means favorite; "☻" means I do the best first time.)
 
 |#|Title|Difficulty|Train_of_thought|Solution|Begin_Date|
 |:-|:---|:--------:|:--------------:|:------:|:--------:|
-|001|[Two Sum](https://leetcode.com/problems/two-sum)|Easy|[note](https://github.com/soyadokio/Leetcode-Java/blob/master/001.%20Two%20Sum)|[my best](https://github.com/soyadokio/Leetcode-Java/blob/master/001.%20Two%20Sum/solution3.java)|2018-02-07|
+|001|[Two Sum](https://leetcode.com/problems/two-sum)|Easy|[note](https://github.com/soyadokio/Leetcode-Java/blob/master/001.%20Two%20Sum)|[my best](https://github.com/soyadokio/Leetcode-Java/blob/master/001.%20Two%20Sum/solution2.java)|2018-02-07|
 |002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|Medium|[note](https://github.com/soyadokio/Leetcode-Java/blob/master/002.%20Add%20Two%20Numbers)|[my best](https://github.com/soyadokio/Leetcode-Java/blob/master/002.%20Add%20Two%20Numbers/solution1.java)||
 |003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|Medium|[note](https://github.com/soyadokio/Leetcode-Java/blob/master/003.%20Longest%20Substring%20Without%20Repeating%20Characters)|[my best](https://github.com/soyadokio/Leetcode-Java/blob/master/003.%20Longest%20Substring%20Without%20Repeating%20Characters/solution1.java)||
 |004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)|Hard|[note](https://github.com/soyadokio/Leetcode-Java/blob/master/004.%20Median%20of%20Two%20Sorted%20Arrays)|[my best](https://github.com/soyadokio/Leetcode-Java/blob/master/004.%20Median%20of%20Two%20Sorted%20Arrays/solution1.java)||
