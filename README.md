@@ -722,9 +722,9 @@ Solutions to leetcode's problems in Java. https://github.com/soyadokio/Leetcode-
 |710|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target)|New|[note](https://github.com/soyadokio/Leetcode-Java/blob/master/710.%20Find%20Smallest%20Letter%20Greater%20Than%20Target)|[my_best](https://github.com/soyadokio/Leetcode-Java/blob/master/710.%20Find%20Smallest%20Letter%20Greater%20Than%20Target/solution1.java)||
 |711|[Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search)|New|[note](https://github.com/soyadokio/Leetcode-Java/blob/master/711.%20Prefix%20and%20Suffix%20Search)|[my_best](https://github.com/soyadokio/Leetcode-Java/blob/master/711.%20Prefix%20and%20Suffix%20Search/solution1.java)||
 
-
-
-p.s. Answers: [*LEETCODE参考答案查询-九章算法*](http://www.jiuzhang.com/solution/)
-
 ## Reference
 - [如何正确高效地使用LeetCode？-pezy的回答](https://www.zhihu.com/question/26580300/answer/33335525)
+
+## P.S.
+- Answers: [*LEETCODE参考答案查询-九章算法*](http://www.jiuzhang.com/solution/)
+- 每个文件夹内的`solution0.java`为未参考他人方案基础上编写；序号从小到大代表或参考他人或自我原创下不停改进的方案。
