@@ -724,6 +724,7 @@ Solutions to leetcode's problems in Java. https://github.com/soyadokio/Leetcode-
 
 ## Reference
 - [如何正确高效地使用LeetCode？-pezy的回答](https://www.zhihu.com/question/26580300/answer/33335525)
+- [Github-pezy](https://github.com/pezy/LeetCode)
 
 ## P.S.
 - Answers: [*LEETCODE参考答案查询-九章算法*](http://www.jiuzhang.com/solution/)
